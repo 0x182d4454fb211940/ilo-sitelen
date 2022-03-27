@@ -4,7 +4,7 @@ sina wile lukin e ni kepeken toki Inli la, o lukin e [`README-EN.md`](https://gi
 
 ilo ni la sina ken sitelen e sitelen pona kepeken sitelen Lasin. ona li kepeken ilo FCITX.
 
-sina pali e ni la sina jo ilo ni:
+sina pali e ni la sina jo e ilo ni:
 
 ```bash
 $ git clone https://github.com/0x182d4454fb211940/ilo-sitelen.git
