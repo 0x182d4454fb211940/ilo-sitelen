@@ -1,0 +1,12 @@
+[Addon]
+Name=ilo sitelen
+Category=InputMethod
+Version=@PROJECT_VERSION@
+Library=ilo-sitelen
+Type=SharedLibrary
+OnDemand=True
+Configurable=True
+
+[Addon/Dependencies]
+
+[Addon/OptionalDependencies]
