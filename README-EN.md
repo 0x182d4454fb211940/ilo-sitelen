@@ -19,7 +19,7 @@ The following example uses [linja nanpa](https://github.com/ETBCOR/nasin-nanpa) 
 
 ![Example input](https://raw.githubusercontent.com/0x182d4454fb211940/ilo-sitelen/master/example.gif)
 
-* TODO
+# TODO
 
 - AUR package
 - Cartouches
