@@ -22,4 +22,3 @@ The following example uses [linja nanpa](https://github.com/ETBCOR/nasin-nanpa) 
 # TODO
 
 - AUR package
-- Cartouches

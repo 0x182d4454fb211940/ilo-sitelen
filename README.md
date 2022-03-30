@@ -22,4 +22,3 @@ ni la mi sitelen kepeken sitelen pi [linja nanpa](https://github.com/ETBCOR/nasi
 # pali ala
 
 - poki AUR
-- sitelen nimi
