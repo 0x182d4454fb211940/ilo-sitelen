@@ -8,13 +8,28 @@ ni li kepeken sitelen pi [linja nanpa](https://github.com/ETBCOR/nasin-nanpa)
 
 ![kepeken pi pana sona](https://raw.githubusercontent.com/0x182d4454fb211940/ilo-sitelen/master/example.gif)
 
-sina kama jo kepeken ni:
+## nasin kepeken
 
-## ilo Arch
+sitelen e poki nimi kepeken `[` en `]`. anu la, sitelen e sitelen wan pi poki nimi kepeken `=`.
+
+sitelen e sitelen pi linja anpa kepeken `(` en `)` lon sitelen sinpin. anu la, sitelen e sitelen wan pi linja anpa kepeken `_`
+
+sitelen e sitelen pi linja anpa pi poka pilin kepeken `{` en `}` lon sitelen monsi.
+
+wan e sitelen kepeken `-`. anu la, wan insa e sitelen kepeken `+`. anu la, wan sewi e sitelen kepeken `*`.
+
+sitelen e sike pimeja kekepen `.`, e sike pimeja tu kepeken `:`.
+
+ante e sitelen kepeken `/` anu `\`
+
+
+## sina kama jo kepeken ni:
+
+### ilo Arch
 
 poki [AUR](https://wiki.archlinux.org/title/Arch_User_Repository) li lon ni: [https://aur.archlinux.org/packages/ilo-sitelen-git](https://aur.archlinux.org/packages/ilo-sitelen-git).
 
-## ilo Linux ante
+### ilo Linux ante
 
 o pali li kama jo kepeken ilo CMake.
 
@@ -26,8 +41,6 @@ $ cmake --build build
 $ sudo cmake --install build
 ```
 
-# pali ala
+## pali ala
 
 - wile pi jan kepeken
-- nimi pi palisa
-- sitelen wan
